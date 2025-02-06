@@ -1,0 +1,6 @@
+site_name: K8gb
+site_url: https://www.k8gb.io
+use_directory_urls: true
+theme:
+  name: material
+  logo: https://www.k8gb.io/docs/images/k8gb-logo-vertical.svg
